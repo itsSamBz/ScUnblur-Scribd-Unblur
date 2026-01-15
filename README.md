@@ -24,6 +24,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
-- This extension is created by https://github.com/hax18.
+- This extension is created by https://github.com/itsSamBz.
 - Special thanks to the HelpTech Group [https://t.me/HelpTechDz07].
 
